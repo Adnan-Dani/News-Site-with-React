@@ -1,0 +1,137 @@
+ 
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "José Eduardo dos Santos: State funeral for Angola ex-president",
+        "description": "Angolans mourn 38-year ruler José Eduardo dos Santos, despite a family row over where he should be buried.",
+        "url": "http://www.bbc.co.uk/news/world-africa-62705492",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D045/production/_126471335_250dfb48-2cb1-4282-a7e5-b74880aa008e.jpg",
+        "publishedAt": "2022-08-28T12:52:19.4481063Z",
+        "content": "By Cecilia MacaulayBBC News\r\nAngola is holding a state funeral for ex-president José Eduardo dos Santos in the capital Luanda after his death in Spain in July.\r\nSeveral African leaders and Portugal's… [+2242 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "The moment India twin towers turned to dust",
+        "description": "The blast, which took months of careful planning, lasted just about 12 seconds.",
+        "url": "http://www.bbc.co.uk/news/world-asia-india-62706495",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4855/production/_126471581_p0cwx9tl.jpg",
+        "publishedAt": "2022-08-28T11:22:17.9167178Z",
+        "content": "On Sunday afternoon, two skyscrapers near India's capital Delhi were demolished in a carefully planned explosion. It was the biggest such operation in India so far, and generated so much interest tha… [+426 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Bed frames used to pull victims over floodwaters",
+        "description": "Several people are brought to safety by volunteer helpers in Swat, northern Pakistan.",
+        "url": "http://www.bbc.co.uk/news/world-asia-62705242",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15370/production/_126469868_p0cwx9pl.jpg",
+        "publishedAt": "2022-08-28T11:07:18.5200023Z",
+        "content": "Volunteers in Pakistan have used bed frames to rescue people on a pulley system above raging flood waters.\r\nIn Swat, northern Pakistan, several people were brought to safety by the creative helpers.\r… [+243 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Ukraine war: Russian recruitment drive unlikely to have impact - UK",
+        "description": "Vladimir Putin recently pledged to increase Russia's armed forces personnel by 137,000.",
+        "url": "http://www.bbc.co.uk/news/world-europe-62705001",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8E9B/production/_126470563_078162261.jpg",
+        "publishedAt": "2022-08-28T10:07:22.1977042Z",
+        "content": "Russia's plan to expand its armed forces is unlikely to have an impact on the Ukraine war, the UK's Ministry of Defence has said.\r\nVladimir Putin recently signed a decree to increase the Russian arme… [+2629 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "California freeway split in half by monsoon floods",
+        "description": "Aerial footage shows the destroyed section of Interstate 10 near the Arizona-California border.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-62705240",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B730/production/_126469864_p0cwwkcp.jpg",
+        "publishedAt": "2022-08-28T07:07:17.6198648Z",
+        "content": "Thousands of travellers and truck drivers bound for Arizona had to be rerouted after floodwaters washed out a section of Interstate 10 near the Arizona-California border.\r\nThe flooding was triggered … [+53 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Two US warships sail through Taiwan Strait",
+        "description": "It is the first US operation in the strait since China held large-scale military drills in the area.",
+        "url": "http://www.bbc.co.uk/news/world-asia-62704449",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E548/production/_126469685_navy.png",
+        "publishedAt": "2022-08-28T04:52:21.4947826Z",
+        "content": "Two US warships are passing through the Taiwan Strait, the US Navy has announced.\r\nIt is the first such operation to take place since tensions between Taiwan and China increased following a visit by … [+1246 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Cristina Fernandez de Kirchner: Protesters and police clash near Argentina vice-president's home",
+        "description": "Thousands demonstrate in support of the vice-president, who is facing corruption charges.",
+        "url": "http://www.bbc.co.uk/news/world-latin-america-62704448",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14EC0/production/_126469658_gettyimages-1242768230.jpg",
+        "publishedAt": "2022-08-28T04:22:20.1986025Z",
+        "content": "Thousands of protesters have rallied in Argentina in support of Vice-President Cristina Fernandez de Kirchner, who denies corruption charges.\r\nThey gathered outside her home in the capital Buenos Air… [+1339 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "UN calls for Libya ceasefire after deadly clashes",
+        "description": "Fighting between political factions kills 23 people and injures dozens in the capital Tripoli.",
+        "url": "http://www.bbc.co.uk/news/world-africa-62704008",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DBE8/production/_126469265_gettyimages-1242757212.jpg",
+        "publishedAt": "2022-08-28T01:37:22.7271605Z",
+        "content": "By Alys DaviesBBC News\r\nThe UN has called for an immediate stop to hostilities in Libya following a day of deadly clashes between political factions in the capital Tripoli.\r\nAt least 23 people were k… [+1454 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Three off-duty Dutch commandos shot outside hotel in Indianapolis",
+        "description": "Police say the soldiers, who were in the US for training, were found with gunshot wounds early on Saturday.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-62703857",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5A38/production/_126469032_dutchdefence.jpg",
+        "publishedAt": "2022-08-28T00:22:17.4611418Z",
+        "content": "Three Dutch commandos, who were in the US for training, have been shot and wounded outside a hotel in the city of Indianapolis while off duty.\r\nThe incident occurred at around 03:30 on Saturday local… [+1053 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Pakistan appeals to world for flood help amid devastation",
+        "description": "More than 1,000 people have died and millions have been displaced since June, government officials say.",
+        "url": "http://www.bbc.co.uk/news/world-asia-62704004",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1C1C/production/_126469170_gettyimages-1242756633.jpg",
+        "publishedAt": "2022-08-27T23:52:23.3828455Z",
+        "content": "By Alys DaviesBBC News\r\nMedia caption, Watch: Millions affected by heavy flooding in Pakistan\r\nPakistan is appealing for further international assistance after floods wreaked havoc across the country… [+3127 chars]"
+      }
+    ]
+  }
